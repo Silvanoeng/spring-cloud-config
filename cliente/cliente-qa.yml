@@ -14,7 +14,7 @@ spring:
         console:
             enabled: true
             path: /h2-console
-cliente:
+testando:
   name: "Silvano"
   default-value: "Marina"            
 
