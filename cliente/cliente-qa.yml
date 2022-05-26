@@ -14,3 +14,7 @@ spring:
         console:
             enabled: true
             path: /h2-console
+cliente:
+  name: "Silvano"
+  default-value: "Marina"            
+
